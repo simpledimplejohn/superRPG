@@ -1,2 +1,11 @@
 import './js/game.js';
-console.log("works!");
+console.log(`
+  /\\
+  ||
+  ||
+  ||
+  ||
+ ----
+  ||
+  --
+`);
