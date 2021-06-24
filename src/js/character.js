@@ -11,7 +11,7 @@ export default class Character {
   }
 
   defend () {
-    return Math.floor(Math.random() * 8 + 1);
+    return Math.floor(Math.random() * 15 + 1);
   }
 
   isDead () {

@@ -51,10 +51,10 @@ export default class Game {
 
   
 
-  // fight(
-  //   { action: 'attack', attack: 10, defend: 0 }, 
-  //   { action: 'defend', attack: 8, defend: 10 },
-  // );
+// fight(
+//   { action: 'attack', attack: 10, defend: 0 }, 
+//   { action: 'defend', attack: 8, defend: 10 },
+// );
 
 //   console.log('enemy health',enemy01.currentHealth);
 //   console.log('player1 health',player01.currentHealth);
