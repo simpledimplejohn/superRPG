@@ -10,5 +10,10 @@ describe('Character', () => {
     const newCharacter = new Character();
     expect(newCharacter.maxHealth).toEqual(100)
   })
+
+  test('set current health', () => {
+    const newCharacter = new Character();
+    expect(newCharacter.currentHealth).toEqual(100)
+  })
 })
 
